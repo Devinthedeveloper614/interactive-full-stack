@@ -54,7 +54,7 @@ npm install
 - Sequelize ORM
 - Handlebars.js
 - Express-session
-- Bulma (for styling)
+- Bulma CSS (for styling)
   <!-- -google maps incorporate others as well that will help  -->
   -google maps
 
